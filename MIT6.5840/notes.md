@@ -1,4 +1,5 @@
 # 6.5840 分布式系统
+## Lecture 0
 ## Lecture 1
 ### Hadoop
 Hadoop ：是使用 Java 编写，允许分布在集群，使用简单的编程模型的计算机大型数据集处理的Apache 的开源框架。
