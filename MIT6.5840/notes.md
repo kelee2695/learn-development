@@ -144,4 +144,5 @@ DataNode 会定期向 NameNode 发送心跳信号​（Heartbeat）和块报告�
 ### YARN
 YARN ：是 Hadoop 2.0 引入的资源管理和作业调度系统。它将 Hadoop 集群的资源（如 CPU、内存）抽象为统一的资源池，并负责管理和分配这些资源给运行在集群上的应用程序。
 ### Lab1
-
+完成
+## Lecture 2
